@@ -47,6 +47,7 @@ p {
 div {
   margin: auto;
   width: 600px;
+  text-align: center;
 }
 
 img {
@@ -88,3 +89,6 @@ hr {
   border: 1px solid black;
 }
 
+ol."Contact"{
+  text-align:center;
+}
